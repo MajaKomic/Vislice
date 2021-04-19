@@ -2,8 +2,8 @@
 
 ## Avtorji: 
 
-* Anja 
-* Maja
+* Anja Petković
+* Maja Komic
 
 ## Opis
 
